@@ -1,2 +1,2 @@
-# diabetes_dataset
-Diabetes data
+# Diabetes dataset
+Repositorio creado para solucionar el problema del conjunto de datos de personas diagnosticadas con [diabetes](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008#). La idea es poder clasificar si un paciente va a ser readmitido o no y hallar información o patrones importantes que ayuden a la estimación del modelo; o agrupar diferentes clientes según las características de los datos como pacientes que van a ser readmitidos o no.
